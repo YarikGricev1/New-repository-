@@ -1,3 +1,2 @@
-# New-repository-
-Repository for Lab 3
-Hi
+git clone https://github.com/YarikGricev1/New-repository-.git
+
